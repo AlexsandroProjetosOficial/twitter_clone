@@ -10,6 +10,10 @@ import {
 	EmailIcon,
 	FavoriteIcon,
 	ProfileIcon,
+	Botside,
+	Avatar,
+	ProfileData,
+	ExitIcon
 } from './styles';
 
 const MenuBar: React.FC = () => {

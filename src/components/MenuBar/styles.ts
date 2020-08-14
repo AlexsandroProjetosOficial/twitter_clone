@@ -98,6 +98,10 @@ export const MenuButton = styled.button`
 	}
 `;
 
+export const Botside = styled.div``;
+export const Avatar = styled.div``;
+export const ProfileData = styled.div``;
+
 const iconCSS = css`
 	flex-shrink: 0;
 	width: 30px;
